@@ -1,0 +1,27 @@
+About the data: https://opensky-network.org/data/historical-flight-data
+
+west,east,north,south
+
+ERC01 - -19,-2,37,25
+ERC02 - -16,-3,46,34
+ERC03 - 5,23,41,29
+ERC04 - 18,36,45,32
+ERC05 - 29,48,48,36
+ERC06 - 15,35,54,41
+ERC07 - 4,23,53,41
+ERC08 - -11,10,55,42
+ERC09 - 0,24,57,44
+ERC10 - -16,3,65,48
+ERC11 - 0,28,66,53
+ERC12_1 - -3,34,75,64
+ERC12_2 - -23,10,66,61
+ERC13 - -25,11,31,18
+
+
+route_output_data not fnished
+
+
+
+
+
+
