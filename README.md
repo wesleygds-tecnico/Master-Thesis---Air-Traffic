@@ -1,5 +1,3 @@
-==========
-
 Air Traffic Data Processing Pipeline
 ------------------------------------
 
