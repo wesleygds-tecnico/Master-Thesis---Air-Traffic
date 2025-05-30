@@ -3,7 +3,7 @@ Air Traffic Data Processing Pipeline
 
 This project provides a structured pipeline to collect, process, and optionally filter air traffic data using the OpenSky Network API. The steps below describe the proper sequence and dependencies for using the available scripts.
 
-REQUIRED SETUP
+Required Setup
 --------------
 
 0. **Environment Setup**
@@ -14,7 +14,7 @@ REQUIRED SETUP
      ```
    - You must also have a valid OpenSky API setup with appropriate access credentials.
 
-PROCESSING SEQUENCE
+Processing sequence
 -------------------
 
 1. **Airspace Definition**
@@ -45,14 +45,14 @@ PROCESSING SEQUENCE
    - Input: Output from previous steps or full dataset.
    - Output: Further refined dataset based on aircraft criteria.
 
-NOTES
+Notes
 -----
 
 - Ensure scripts are executed in the correct order to avoid inconsistencies in the dataset.
 - Intermediate results (especially from steps 2 and 3) are saved to disk and reused in later steps.
 - Optional filtering steps (4 and 5) are useful for focused analysis or targeted studies.
 
-CONTACT
+Contact
 -------
 
 For questions or contributions, please contact: wesley.silva@tecnico.ulisboa.pt
