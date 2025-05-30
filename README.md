@@ -12,6 +12,10 @@ Required Setup
      ```
      pip install -r requirements.txt
      ```
+     or
+     ```     
+     conda install --yes --file requirements.txt
+     ```
    - You must also have a valid OpenSky API setup with appropriate access credentials.
 
 Processing sequence
