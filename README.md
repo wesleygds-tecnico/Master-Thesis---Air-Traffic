@@ -1,5 +1,5 @@
 Air Traffic Data Processing Pipeline
-------------------------------------
+-------------------------------------
 
 This project provides a structured pipeline to collect, process, and optionally filter air traffic data using the OpenSky Network API. The steps below describe the proper sequence and dependencies for using the available scripts.
 
